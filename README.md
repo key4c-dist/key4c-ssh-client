@@ -2,8 +2,8 @@
 
 ## 1. Usage
 ```bash
-% ./key4cSshClient_darwin -help
-Usage: ./key4cSshClient_darwin [Options] <Profile>
+% ./key4cSshClient -help
+Usage: ./key4cSshClient [Options] <Profile>
 
 Options:
 [CLI Common]
