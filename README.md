@@ -5,6 +5,8 @@
 % ./key4cSshClient -help
 Usage: ./key4cSshClient [Options] <Profile>
 
+Profile: Profile is read by ssh config(optional)
+
 Options:
 [CLI Common]
   -k, --publicKey           show public-Key
