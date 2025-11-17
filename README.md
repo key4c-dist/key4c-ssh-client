@@ -19,6 +19,10 @@ Options:
 
 [Key4c Config]
   -c, --config value        configuration file (default: "./config.json", or $K4C_SSH_CONFIG)
+
+[Windows Options]
+  -y, --height value        height(y) size (default: "24", or $WINDOWS_HEIGHT)
+  -x, --width value         width(x) size (default: "80", or $WINDOWS_WIDTH)
 ```
 
 ### 1.1. configuration file(config.json)
