@@ -10,11 +10,13 @@ Profile: Profile is read by ssh config(optional)
 Options:
 [CLI Common]
   -k, --publicKey           show public-Key
+  -V, --verbose             show verbose debug logs on screen
   -v, --version             show version
 
 [Connect SSH Server]
   -h, --host value          host address (default: "", or $K4C_SSH_HOST)
   -p, --port value          port number (default: "0", or $K4C_SSH_PORT)
+  -s, --sftp                connect in SFTP mode
   -u, --user value          user account (default: "", or $K4C_SSH_USER)
 
 [Key4c Config]
